@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .todo-title { text-align: center;
+  .todo-title { 
+    text-align: center;
   }
 }
 .main {
